@@ -1,0 +1,3473 @@
+[
+    {
+        "id": 1,
+        "name": "MOMBASA",
+        "subcounties": [
+            {
+                "id": 1,
+                "name": "changamwe",
+                "wards": [
+                    "port reitz",
+                    "kipevu",
+                    "airport",
+                    "changamwe",
+                    "chaani"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "jomvu",
+                "wards": [
+                    "jomvu kuu",
+                    "miritini",
+                    "mikindani"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "kisauni",
+                "wards": [
+                    "mjambere",
+                    "junda",
+                    "bamburi",
+                    "mwakirunge",
+                    "mtopanga",
+                    "magogoni",
+                    "shanzu"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "nyali",
+                "wards": [
+                    "frere town",
+                    "ziwa la ng'ombe",
+                    "mkomani",
+                    "kongowea",
+                    "kadzandani"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "likoni",
+                "wards": [
+                    "mtongwe",
+                    "shika adabu",
+                    "bofu",
+                    "likoni",
+                    "timbwani"
+                ]
+            },
+            {
+                "id": 6,
+                "name": "mvita",
+                "wards": [
+                    "mji wa kale/makadara",
+                    "tudor",
+                    "tononoka",
+                    "majengo"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "KWALE",
+        "subcounties": [
+            {
+                "id": 7,
+                "name": "msambweni",
+                "wards": [
+                    "gombatobongwe",
+                    "ukunda",
+                    "kinondo",
+                    "ramisi"
+                ]
+            },
+            {
+                "id": 8,
+                "name": "lungalunga",
+                "wards": [
+                    "pongwekikoneni",
+                    "dzombo",
+                    "mwereni",
+                    "vanga"
+                ]
+            },
+            {
+                "id": 9,
+                "name": "matuga",
+                "wards": [
+                    "tsimba golini",
+                    "waa",
+                    "tiwi",
+                    "kubo south",
+                    "mkongani"
+                ]
+            },
+            {
+                "id": 10,
+                "name": "kinango",
+                "wards": [
+                    "nadavaya",
+                    "puma",
+                    "kinango",
+                    "mackinnon-road",
+                    "chengoni/samburu",
+                    "mwavumbo",
+                    "kasemeni"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "KILIFI",
+        "subcounties": [
+            {
+                "id": 11,
+                "name": "kilifi north",
+                "wards": [
+                    "tezo",
+                    "sokoni",
+                    "kibarani",
+                    "dabaso",
+                    "matsangoni",
+                    "watamu",
+                    "mnarani"
+                ]
+            },
+            {
+                "id": 12,
+                "name": "kilifi south",
+                "wards": [
+                    "junju",
+                    "mwarakaya",
+                    "shimo la tewa",
+                    "chasimba",
+                    "mtepeni"
+                ]
+            },
+            {
+                "id": 13,
+                "name": "kaloleni",
+                "wards": [
+                    "mariakani",
+                    "kayafungo",
+                    "kaloleni",
+                    "mwanamwinga"
+                ]
+            },
+            {
+                "id": 14,
+                "name": "rabai",
+                "wards": [
+                    "mwawesa",
+                    "ruruma",
+                    "kambe/ribe",
+                    "rabai/kisurutini"
+                ]
+            },
+            {
+                "id": 15,
+                "name": "ganze",
+                "wards": [
+                    "ganze",
+                    "bamba",
+                    "jaribuni",
+                    "sokoke"
+                ]
+            },
+            {
+                "id": 16,
+                "name": "malindi",
+                "wards": [
+                    "jilore",
+                    "kakuyuni",
+                    "ganda",
+                    "malindi town",
+                    "shella"
+                ]
+            },
+            {
+                "id": 17,
+                "name": "magarini",
+                "wards": [
+                    "marafa",
+                    "magarini",
+                    "gongoni",
+                    "adu",
+                    "garashi",
+                    "sabaki"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "TANA RIVER",
+        "subcounties": [
+            {
+                "id": 18,
+                "name": "garsen",
+                "wards": [
+                    "kipini east",
+                    "garsen south",
+                    "kipini west",
+                    "garsen central",
+                    "garsen west",
+                    "garsen north"
+                ]
+            },
+            {
+                "id": 19,
+                "name": "galole",
+                "wards": [
+                    "kinakomba",
+                    "mikinduni",
+                    "chewani",
+                    "wayu"
+                ]
+            },
+            {
+                "id": 20,
+                "name": "bura",
+                "wards": [
+                    "chewele",
+                    "bura",
+                    "bangale",
+                    "sala",
+                    "madogo"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "LAMU",
+        "subcounties": [
+            {
+                "id": 21,
+                "name": "lamu east",
+                "wards": [
+                    "faza",
+                    "kiunga",
+                    "basuba"
+                ]
+            },
+            {
+                "id": 22,
+                "name": "lamu west",
+                "wards": [
+                    "shella",
+                    "mkomani",
+                    "hindi",
+                    "mkunumbi",
+                    "hongwe",
+                    "witu",
+                    "bahari"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "TAITA TAVETA",
+        "subcounties": [
+            {
+                "id": 23,
+                "name": "taveta",
+                "wards": [
+                    "chala",
+                    "mahoo",
+                    "bomeni",
+                    "mboghoni",
+                    "mata"
+                ]
+            },
+            {
+                "id": 24,
+                "name": "wundanyi",
+                "wards": [
+                    "wundanyi/mbale",
+                    "werugha",
+                    "wumingu/kishushe",
+                    "mwanda/mgange"
+                ]
+            },
+            {
+                "id": 25,
+                "name": "mwatate",
+                "wards": [
+                    "rong'e",
+                    "mwatate",
+                    "bura",
+                    "chawia",
+                    "wusi/kishamba"
+                ]
+            },
+            {
+                "id": 26,
+                "name": "voi",
+                "wards": [
+                    "mbololo",
+                    "sagalla",
+                    "kaloleni",
+                    "marungu",
+                    "kasigau",
+                    "ngolia"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "GARISSA",
+        "subcounties": [
+            {
+                "id": 27,
+                "name": "garissa township",
+                "wards": [
+                    "waberi",
+                    "galbet",
+                    "township",
+                    "iftin"
+                ]
+            },
+            {
+                "id": 28,
+                "name": "balambala",
+                "wards": [
+                    "balambala",
+                    "danyere",
+                    "jara jara",
+                    "saka",
+                    "sankuri"
+                ]
+            },
+            {
+                "id": 29,
+                "name": "lagdera",
+                "wards": [
+                    "modogashe",
+                    "benane",
+                    "goreale",
+                    "maalimin",
+                    "sabena",
+                    "baraki"
+                ]
+            },
+            {
+                "id": 30,
+                "name": "dadaab",
+                "wards": [
+                    "dertu",
+                    "dadaab",
+                    "labasigale",
+                    "damajale",
+                    "liboi",
+                    "abakaile"
+                ]
+            },
+            {
+                "id": 31,
+                "name": "fafi",
+                "wards": [
+                    "bura",
+                    "dekaharia",
+                    "jarajila",
+                    "fafi",
+                    "nanighi"
+                ]
+            },
+            {
+                "id": 32,
+                "name": "ijara",
+                "wards": [
+                    "hulugho",
+                    "sangailu",
+                    "ijara",
+                    "masalani"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "WAJIR",
+        "subcounties": [
+            {
+                "id": 33,
+                "name": "wajir north",
+                "wards": [
+                    "gurar",
+                    "bute",
+                    "korondile",
+                    "malkagufu",
+                    "batalu",
+                    "danaba",
+                    "godoma"
+                ]
+            },
+            {
+                "id": 34,
+                "name": "wajir east",
+                "wards": [
+                    "wagberi",
+                    "township",
+                    "barwago",
+                    "khorof/harar"
+                ]
+            },
+            {
+                "id": 35,
+                "name": "tarbaj",
+                "wards": [
+                    "elben",
+                    "sarman",
+                    "tarbaj",
+                    "wargadud"
+                ]
+            },
+            {
+                "id": 36,
+                "name": "wajir west",
+                "wards": [
+                    "arbajahan",
+                    "hadado/athibohol",
+                    "ademasajide",
+                    "wagalla/ganyure"
+                ]
+            },
+            {
+                "id": 37,
+                "name": "eldas",
+                "wards": [
+                    "eldas",
+                    "della",
+                    "lakoley south/basir",
+                    "elnur/tula tula"
+                ]
+            },
+            {
+                "id": 38,
+                "name": "wajir south",
+                "wards": [
+                    "benane",
+                    "burder",
+                    "dadaja bulla",
+                    "habasswein",
+                    "lagboghol south",
+                    "ibrahim ure",
+                    "diif"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "MANDERA",
+        "subcounties": [
+            {
+                "id": 39,
+                "name": "mandera west",
+                "wards": [
+                    "takaba south",
+                    "takaba",
+                    "lag sure",
+                    "dandu",
+                    "gither"
+                ]
+            },
+            {
+                "id": 40,
+                "name": "banissa",
+                "wards": [
+                    "banissa",
+                    "derkhale",
+                    "guba",
+                    "malkamari",
+                    "kiliwehiri"
+                ]
+            },
+            {
+                "id": 41,
+                "name": "mandera north",
+                "wards": [
+                    "ashabito",
+                    "guticha",
+                    "morothile",
+                    "rhamu",
+                    "rhamu-dimtu"
+                ]
+            },
+            {
+                "id": 42,
+                "name": "mandera south",
+                "wards": [
+                    "wargudud",
+                    "kutulo",
+                    "elwak south",
+                    "elwak north",
+                    "shimbir fatuma"
+                ]
+            },
+            {
+                "id": 43,
+                "name": "mandera east",
+                "wards": [
+                    "arabia",
+                    "bulla mpya",
+                    "khalalio",
+                    "neboi",
+                    "township"
+                ]
+            },
+            {
+                "id": 44,
+                "name": "lafey",
+                "wards": [
+                    "libehia",
+                    "fino",
+                    "lafey",
+                    "warankara",
+                    "alungo gof"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "MARSABIT",
+        "subcounties": [
+            {
+                "id": 45,
+                "name": "moyale",
+                "wards": [
+                    "butiye",
+                    "sololo",
+                    "heilu-manyatta",
+                    "golbo",
+                    "moyale township",
+                    "uran",
+                    "obbu"
+                ]
+            },
+            {
+                "id": 46,
+                "name": "north horr",
+                "wards": [
+                    "illeret",
+                    "north horr",
+                    "dukana",
+                    "maikona",
+                    "turbi"
+                ]
+            },
+            {
+                "id": 47,
+                "name": "saku",
+                "wards": [
+                    "sagante/jaldesa",
+                    "karare",
+                    "marsabit central"
+                ]
+            },
+            {
+                "id": 48,
+                "name": "laisamis",
+                "wards": [
+                    "loiyangalani",
+                    "kargi/south horr",
+                    "korr/ngurunit",
+                    "log logo",
+                    "laisamis"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "ISIOLO",
+        "subcounties": [
+            {
+                "id": 49,
+                "name": "isiolo north",
+                "wards": [
+                    "wabera",
+                    "bulla pesa",
+                    "chari",
+                    "cherab",
+                    "ngare mara",
+                    "burat",
+                    "oldonyiro"
+                ]
+            },
+            {
+                "id": 50,
+                "name": "isiolo south",
+                "wards": [
+                    "garbatulla",
+                    "kinna",
+                    "sericho"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "MERU",
+        "subcounties": [
+            {
+                "id": 51,
+                "name": "igembe south",
+                "wards": [
+                    "maua",
+                    "kiegoi/antubochiu",
+                    "athiru gaiti",
+                    "akachiu",
+                    "kanuni"
+                ]
+            },
+            {
+                "id": 52,
+                "name": "igembe central",
+                "wards": [
+                    "akirang'ondu",
+                    "athiru ruujine",
+                    "igembe east",
+                    "njia",
+                    "kangeta"
+                ]
+            },
+            {
+                "id": 53,
+                "name": "igembe north",
+                "wards": [
+                    "antuambui",
+                    "ntunene",
+                    "antubetwe kiongo",
+                    "naathu",
+                    "amwathi"
+                ]
+            },
+            {
+                "id": 54,
+                "name": "tigania west",
+                "wards": [
+                    "athwana",
+                    "akithii",
+                    "kianjai",
+                    "nkomo",
+                    "mbeu"
+                ]
+            },
+            {
+                "id": 55,
+                "name": "tigania east",
+                "wards": [
+                    "thangatha",
+                    "mikinduri",
+                    "kiguchwa",
+                    "muthara",
+                    "karama"
+                ]
+            },
+            {
+                "id": 56,
+                "name": "north imenti",
+                "wards": [
+                    "municipality",
+                    "ntima east",
+                    "ntima west",
+                    "nyaki west",
+                    "nyaki east"
+                ]
+            },
+            {
+                "id": 57,
+                "name": "buuri",
+                "wards": [
+                    "timau",
+                    "kisima",
+                    "kiirua/naari",
+                    "ruiri/rwarera",
+                    "kibirichia"
+                ]
+            },
+            {
+                "id": 58,
+                "name": "central imenti",
+                "wards": [
+                    "mwanganthia",
+                    "abothuguchi central",
+                    "abothuguchi west",
+                    "kiagu"
+                ]
+            },
+            {
+                "id": 59,
+                "name": "south imenti",
+                "wards": [
+                    "mitunguu",
+                    "igoji east",
+                    "igoji west",
+                    "abogeta east",
+                    "abogeta west",
+                    "nkuene"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "THARAKA-NITHI",
+        "subcounties": [
+            {
+                "id": 60,
+                "name": "maara",
+                "wards": [
+                    "mitheru",
+                    "muthambi",
+                    "mwimbi",
+                    "ganga",
+                    "chogoria"
+                ]
+            },
+            {
+                "id": 61,
+                "name": "chuka/igambang'om",
+                "wards": [
+                    "mariani",
+                    "karingani",
+                    "magumoni",
+                    "mugwe",
+                    "igambang'ombe"
+                ]
+            },
+            {
+                "id": 62,
+                "name": "tharaka",
+                "wards": [
+                    "gatunga",
+                    "mukothima",
+                    "nkondi",
+                    "chiakariga",
+                    "marimanti"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "EMBU",
+        "subcounties": [
+            {
+                "id": 63,
+                "name": "manyatta",
+                "wards": [
+                    "ruguru/ngandori",
+                    "kithimu",
+                    "nginda",
+                    "mbeti north",
+                    "kirimari",
+                    "gaturi south"
+                ]
+            },
+            {
+                "id": 64,
+                "name": "runyenjes",
+                "wards": [
+                    "gaturi north",
+                    "kagaari south",
+                    "central  ward",
+                    "kagaari north",
+                    "kyeni north",
+                    "kyeni south"
+                ]
+            },
+            {
+                "id": 65,
+                "name": "mbeere south",
+                "wards": [
+                    "mwea",
+                    "makima",
+                    "mbeti south",
+                    "mavuria",
+                    "kiambere"
+                ]
+            },
+            {
+                "id": 66,
+                "name": "mbeere north",
+                "wards": [
+                    "nthawa",
+                    "muminji",
+                    "evurore"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "KITUI",
+        "subcounties": [
+            {
+                "id": 67,
+                "name": "mwingi north",
+                "wards": [
+                    "ngomeni",
+                    "kyuso",
+                    "mumoni",
+                    "tseikuru",
+                    "tharaka"
+                ]
+            },
+            {
+                "id": 68,
+                "name": "mwingi west",
+                "wards": [
+                    "kyome/thaana",
+                    "nguutani",
+                    "migwani",
+                    "kiomo/kyethani"
+                ]
+            },
+            {
+                "id": 69,
+                "name": "mwingi central",
+                "wards": [
+                    "central",
+                    "kivou",
+                    "nguni",
+                    "nuu",
+                    "mui",
+                    "waita"
+                ]
+            },
+            {
+                "id": 346,
+                "name": "kitui west",
+                "wards": [
+                    "mutonguni",
+                    "kauwi",
+                    "matinyani",
+                    "kwa mutonga/kithumula"
+                ]
+            },
+            {
+                "id": 70,
+                "name": "kitui rural",
+                "wards": [
+                    "kisasi",
+                    "mbitini",
+                    "kwavonza/yatta",
+                    "kanyangi"
+                ]
+            },
+            {
+                "id": 71,
+                "name": "kitui central",
+                "wards": [
+                    "miambani",
+                    "township",
+                    "kyangwithya west",
+                    "mulango",
+                    "kyangwithya east"
+                ]
+            },
+            {
+                "id": 72,
+                "name": "kitui east",
+                "wards": [
+                    "zombe/mwitika",
+                    "chuluni",
+                    "nzambani",
+                    "voo/kyamatu",
+                    "endau/malalani",
+                    "mutito/kaliku"
+                ]
+            },
+            {
+                "id": 73,
+                "name": "kitui south",
+                "wards": [
+                    "ikanga/kyatune",
+                    "mutomo",
+                    "mutha",
+                    "ikutha",
+                    "kanziko",
+                    "athi"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "MACHAKOS",
+        "subcounties": [
+            {
+                "id": 74,
+                "name": "masinga",
+                "wards": [
+                    "kivaa",
+                    "masinga central",
+                    "ekalakala",
+                    "muthesya",
+                    "ndithini"
+                ]
+            },
+            {
+                "id": 75,
+                "name": "yatta",
+                "wards": [
+                    "ndalani",
+                    "matuu",
+                    "kithimani",
+                    "ikombe",
+                    "katangi"
+                ]
+            },
+            {
+                "id": 76,
+                "name": "kangundo",
+                "wards": [
+                    "kangundo north",
+                    "kangundo central",
+                    "kangundo east",
+                    "kangundo west"
+                ]
+            },
+            {
+                "id": 77,
+                "name": "matungulu",
+                "wards": [
+                    "tala",
+                    "matungulu north",
+                    "matungulu east",
+                    "matungulu west",
+                    "kyeleni"
+                ]
+            },
+            {
+                "id": 78,
+                "name": "kathiani",
+                "wards": [
+                    "mitaboni",
+                    "kathiani central",
+                    "upper kaewa/iveti",
+                    "lower kaewa/kaani"
+                ]
+            },
+            {
+                "id": 79,
+                "name": "mavoko",
+                "wards": [
+                    "athi river",
+                    "kinanie",
+                    "muthwani",
+                    "syokimau/mulolongo"
+                ]
+            },
+            {
+                "id": 80,
+                "name": "machakos town",
+                "wards": [
+                    "kalama",
+                    "mua",
+                    "mutituni",
+                    "machakos central",
+                    "mumbuni north",
+                    "muvuti/kiima-kimwe",
+                    "kola"
+                ]
+            },
+            {
+                "id": 81,
+                "name": "mwala",
+                "wards": [
+                    "mbiuni",
+                    "makutano/ mwala",
+                    "masii",
+                    "muthetheni",
+                    "wamunyu",
+                    "kibauni"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "MAKUENI",
+        "subcounties": [
+            {
+                "id": 82,
+                "name": "mbooni",
+                "wards": [
+                    "tulimani",
+                    "mbooni",
+                    "kithungo/kitundu",
+                    "kisau/kiteta",
+                    "waia/kako",
+                    "kalawa"
+                ]
+            },
+            {
+                "id": 83,
+                "name": "kilome",
+                "wards": [
+                    "kasikeu",
+                    "mukaa",
+                    "kiima kiu/kalanzoni"
+                ]
+            },
+            {
+                "id": 84,
+                "name": "kaiti",
+                "wards": [
+                    "ukia",
+                    "kee",
+                    "kilungu",
+                    "ilima"
+                ]
+            },
+            {
+                "id": 85,
+                "name": "makueni",
+                "wards": [
+                    "wote",
+                    "muvau/kikuumini",
+                    "mavindini",
+                    "kitise/kithuki",
+                    "kathonzweni",
+                    "nzaui/kilili/kalamba",
+                    "mbitini"
+                ]
+            },
+            {
+                "id": 86,
+                "name": "kibwezi west",
+                "wards": [
+                    "makindu",
+                    "nguumo",
+                    "kikumbulyu north",
+                    "kikumbulyu south",
+                    "nguu/masumba",
+                    "emali/mulala"
+                ]
+            },
+            {
+                "id": 87,
+                "name": "kibwezi east",
+                "wards": [
+                    "masongaleni",
+                    "mtito andei",
+                    "thange",
+                    "ivingoni/nzambani"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "NYANDARUA",
+        "subcounties": [
+            {
+                "id": 88,
+                "name": "kinangop",
+                "wards": [
+                    "engineer",
+                    "gathara",
+                    "north kinangop",
+                    "murungaru",
+                    "njabini\\kiburu",
+                    "nyakio",
+                    "githabai",
+                    "magumu"
+                ]
+            },
+            {
+                "id": 89,
+                "name": "kipipiri",
+                "wards": [
+                    "wanjohi",
+                    "kipipiri",
+                    "geta",
+                    "githioro"
+                ]
+            },
+            {
+                "id": 90,
+                "name": "ol kalou",
+                "wards": [
+                    "karau",
+                    "kanjuiri ridge",
+                    "mirangine",
+                    "kaimbaga",
+                    "rurii"
+                ]
+            },
+            {
+                "id": 91,
+                "name": "ol jorok",
+                "wards": [
+                    "gathanji",
+                    "gatimu",
+                    "weru",
+                    "charagita"
+                ]
+            },
+            {
+                "id": 92,
+                "name": "ndaragwa",
+                "wards": [
+                    "leshau pondo",
+                    "kiriita",
+                    "central",
+                    "shamata"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "NYERI",
+        "subcounties": [
+            {
+                "id": 93,
+                "name": "tetu",
+                "wards": [
+                    "dedan kimanthi",
+                    "wamagana",
+                    "aguthi/gaaki"
+                ]
+            },
+            {
+                "id": 94,
+                "name": "kieni",
+                "wards": [
+                    "mweiga",
+                    "naromoru kiamathaga",
+                    "mwiyogo/endarasha",
+                    "mugunda",
+                    "gatarakwa",
+                    "thegu river",
+                    "kabaru",
+                    "gakawa"
+                ]
+            },
+            {
+                "id": 95,
+                "name": "mathira",
+                "wards": [
+                    "ruguru",
+                    "magutu",
+                    "iriaini",
+                    "konyu",
+                    "kirimukuyu",
+                    "karatina town"
+                ]
+            },
+            {
+                "id": 96,
+                "name": "othaya",
+                "wards": [
+                    "mahiga",
+                    "iria-ini",
+                    "chinga",
+                    "karima"
+                ]
+            },
+            {
+                "id": 97,
+                "name": "mukurweini",
+                "wards": [
+                    "gikondi",
+                    "rugi",
+                    "mukurwe-ini west",
+                    "mukurwe-ini central"
+                ]
+            },
+            {
+                "id": 98,
+                "name": "nyeri town",
+                "wards": [
+                    "kiganjo/mathari",
+                    "rware",
+                    "gatitu/muruguru",
+                    "ruring'u",
+                    "kamakwa/mukaro"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "KIRINYAGA",
+        "subcounties": [
+            {
+                "id": 99,
+                "name": "mwea",
+                "wards": [
+                    "mutithi",
+                    "kangai",
+                    "thiba",
+                    "wamumu",
+                    "nyangati",
+                    "murinduko",
+                    "gathigiriri",
+                    "tebere"
+                ]
+            },
+            {
+                "id": 100,
+                "name": "gichugu",
+                "wards": [
+                    "kabare",
+                    "baragwi",
+                    "njukiini",
+                    "ngariama",
+                    "karumandi"
+                ]
+            },
+            {
+                "id": 101,
+                "name": "ndia",
+                "wards": [
+                    "mukure",
+                    "kiine",
+                    "kariti"
+                ]
+            },
+            {
+                "id": 102,
+                "name": "kirinyaga central",
+                "wards": [
+                    "mutira",
+                    "kanyeki-ini",
+                    "kerugoya",
+                    "inoi"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "MURANG'A",
+        "subcounties": [
+            {
+                "id": 103,
+                "name": "kangema",
+                "wards": [
+                    "kanyenyaini",
+                    "muguru",
+                    "rwathia"
+                ]
+            },
+            {
+                "id": 104,
+                "name": "mathioya",
+                "wards": [
+                    "gitugi",
+                    "kiru",
+                    "kamacharia"
+                ]
+            },
+            {
+                "id": 105,
+                "name": "kiharu",
+                "wards": [
+                    "wangu",
+                    "mugoiri",
+                    "mbiri",
+                    "township",
+                    "murarandia",
+                    "gaturi"
+                ]
+            },
+            {
+                "id": 106,
+                "name": "kigumo",
+                "wards": [
+                    "kahumbu",
+                    "muthithi",
+                    "kigumo",
+                    "kangari",
+                    "kinyona"
+                ]
+            },
+            {
+                "id": 107,
+                "name": "maragwa",
+                "wards": [
+                    "kimorori/wempa",
+                    "makuyu",
+                    "kambiti",
+                    "kamahuha",
+                    "ichagaki",
+                    "nginda"
+                ]
+            },
+            {
+                "id": 108,
+                "name": "kandara",
+                "wards": [
+                    "ng'araria",
+                    "muruka",
+                    "kagundu-ini",
+                    "gaichanjiru",
+                    "ithiru",
+                    "ruchu"
+                ]
+            },
+            {
+                "id": 109,
+                "name": "gatanga",
+                "wards": [
+                    "ithanga",
+                    "kakuzi/mitubiri",
+                    "mugumo-ini",
+                    "kihumbu-ini",
+                    "gatanga",
+                    "kariara"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "KIAMBU",
+        "subcounties": [
+            {
+                "id": 110,
+                "name": "gatundu south",
+                "wards": [
+                    "kiamwangi",
+                    "kiganjo",
+                    "ndarugu",
+                    "ngenda"
+                ]
+            },
+            {
+                "id": 111,
+                "name": "gatundu north",
+                "wards": [
+                    "gituamba",
+                    "githobokoni",
+                    "chania",
+                    "mang'u"
+                ]
+            },
+            {
+                "id": 112,
+                "name": "juja",
+                "wards": [
+                    "murera",
+                    "theta",
+                    "juja",
+                    "witeithie",
+                    "kalimoni"
+                ]
+            },
+            {
+                "id": 113,
+                "name": "thika town",
+                "wards": [
+                    "township",
+                    "kamenu",
+                    "hospital",
+                    "gatuanyaga",
+                    "ngoliba"
+                ]
+            },
+            {
+                "id": 114,
+                "name": "ruiru",
+                "wards": [
+                    "gitothua",
+                    "biashara",
+                    "gatongora",
+                    "kahawa sukari",
+                    "kahawa wendani",
+                    "kiuu",
+                    "mwiki",
+                    "mwihoko"
+                ]
+            },
+            {
+                "id": 115,
+                "name": "githunguri",
+                "wards": [
+                    "githunguri",
+                    "githiga",
+                    "ikinu",
+                    "ngewa",
+                    "komothai"
+                ]
+            },
+            {
+                "id": 116,
+                "name": "kiambu",
+                "wards": [
+                    "ting'ang'a",
+                    "ndumberi",
+                    "riabai",
+                    "township"
+                ]
+            },
+            {
+                "id": 117,
+                "name": "kiambaa",
+                "wards": [
+                    "cianda",
+                    "karuri",
+                    "ndenderu",
+                    "muchatha",
+                    "kihara"
+                ]
+            },
+            {
+                "id": 118,
+                "name": "kabete",
+                "wards": [
+                    "gitaru",
+                    "muguga",
+                    "nyadhuna",
+                    "kabete",
+                    "uthiru"
+                ]
+            },
+            {
+                "id": 119,
+                "name": "kikuyu",
+                "wards": [
+                    "karai",
+                    "nachu",
+                    "sigona",
+                    "kikuyu",
+                    "kinoo"
+                ]
+            },
+            {
+                "id": 120,
+                "name": "limuru",
+                "wards": [
+                    "bibirioni",
+                    "limuru central",
+                    "ndeiya",
+                    "limuru east",
+                    "ngecha tigoni"
+                ]
+            },
+            {
+                "id": 121,
+                "name": "lari",
+                "wards": [
+                    "kinale",
+                    "kijabe",
+                    "nyanduma",
+                    "kamburu",
+                    "lari/kirenga"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "TURKANA",
+        "subcounties": [
+            {
+                "id": 122,
+                "name": "turkana north",
+                "wards": [
+                    "kaeris",
+                    "lake zone",
+                    "lapur",
+                    "kaaleng/kaikor",
+                    "kibish",
+                    "nakalale"
+                ]
+            },
+            {
+                "id": 123,
+                "name": "turkana west",
+                "wards": [
+                    "kakuma",
+                    "lopur",
+                    "letea",
+                    "songot",
+                    "kalobeyei",
+                    "lokichoggio",
+                    "nanaam"
+                ]
+            },
+            {
+                "id": 124,
+                "name": "turkana central",
+                "wards": [
+                    "kerio delta",
+                    "kang'atotha",
+                    "kalokol",
+                    "lodwar township",
+                    "kanamkemer"
+                ]
+            },
+            {
+                "id": 125,
+                "name": "loima",
+                "wards": [
+                    "kotaruk/lobei",
+                    "turkwel",
+                    "loima",
+                    "lokiriama/lorengippi"
+                ]
+            },
+            {
+                "id": 126,
+                "name": "turkana south",
+                "wards": [
+                    "kaputir",
+                    "katilu",
+                    "lobokat",
+                    "kalapata",
+                    "lokichar"
+                ]
+            },
+            {
+                "id": 127,
+                "name": "turkana east",
+                "wards": [
+                    "kapedo/napeitom",
+                    "katilia",
+                    "lokori/kochodin"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "WEST POKOT",
+        "subcounties": [
+            {
+                "id": 128,
+                "name": "kapenguria",
+                "wards": [
+                    "riwo",
+                    "kapenguria",
+                    "mnagei",
+                    "siyoi",
+                    "endugh",
+                    "sook"
+                ]
+            },
+            {
+                "id": 129,
+                "name": "sigor",
+                "wards": [
+                    "sekerr",
+                    "masool",
+                    "lomut",
+                    "weiwei"
+                ]
+            },
+            {
+                "id": 130,
+                "name": "kacheliba",
+                "wards": [
+                    "suam",
+                    "kodich",
+                    "kapckok",
+                    "kasei",
+                    "kiwawa",
+                    "alale"
+                ]
+            },
+            {
+                "id": 131,
+                "name": "pokot south",
+                "wards": [
+                    "chepareria",
+                    "batei",
+                    "lelan",
+                    "tapach"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "SAMBURU",
+        "subcounties": [
+            {
+                "id": 132,
+                "name": "samburu west",
+                "wards": [
+                    "lodokejek",
+                    "suguta marmar",
+                    "maralal",
+                    "loosuk",
+                    "poro"
+                ]
+            },
+            {
+                "id": 133,
+                "name": "samburu north",
+                "wards": [
+                    "el-barta",
+                    "nachola",
+                    "ndoto",
+                    "nyiro",
+                    "angata nanyokie",
+                    "baawa"
+                ]
+            },
+            {
+                "id": 134,
+                "name": "samburu east",
+                "wards": [
+                    "waso",
+                    "wamba west",
+                    "wamba east",
+                    "wamba north"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "TRANS NZOIA",
+        "subcounties": [
+            {
+                "id": 135,
+                "name": "kwanza",
+                "wards": [
+                    "kapomboi",
+                    "kwanza",
+                    "keiyo",
+                    "bidii"
+                ]
+            },
+            {
+                "id": 136,
+                "name": "endebess",
+                "wards": [
+                    "chepchoina",
+                    "endebess",
+                    "matumbei"
+                ]
+            },
+            {
+                "id": 137,
+                "name": "saboti",
+                "wards": [
+                    "kinyoro",
+                    "matisi",
+                    "tuwani",
+                    "saboti",
+                    "machewa"
+                ]
+            },
+            {
+                "id": 138,
+                "name": "kiminini",
+                "wards": [
+                    "kiminini",
+                    "waitaluk",
+                    "sirende",
+                    "hospital",
+                    "sikhendu",
+                    "nabiswa"
+                ]
+            },
+            {
+                "id": 139,
+                "name": "cherangany",
+                "wards": [
+                    "sinyerere",
+                    "makutano",
+                    "kaplamai",
+                    "motosiet",
+                    "cherangany/suwerwa",
+                    "chepsiro/kiptoror",
+                    "sitatunga"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "UASIN GISHU",
+        "subcounties": [
+            {
+                "id": 140,
+                "name": "soy",
+                "wards": [
+                    "moi's bridge",
+                    "kapkures",
+                    "ziwa",
+                    "segero/barsombe",
+                    "kipsomba",
+                    "soy",
+                    "kuinet/kapsuswa"
+                ]
+            },
+            {
+                "id": 141,
+                "name": "turbo",
+                "wards": [
+                    "ngenyilel",
+                    "tapsagoi",
+                    "kamagut",
+                    "kiplombe",
+                    "kapsaos",
+                    "huruma"
+                ]
+            },
+            {
+                "id": 142,
+                "name": "moiben",
+                "wards": [
+                    "tembelio",
+                    "sergoit",
+                    "karuna/meibeki",
+                    "moiben",
+                    "kimumu"
+                ]
+            },
+            {
+                "id": 143,
+                "name": "ainabkoi",
+                "wards": [
+                    "kapsoya",
+                    "kaptagat",
+                    "ainabkoi/olare"
+                ]
+            },
+            {
+                "id": 144,
+                "name": "kapseret",
+                "wards": [
+                    "simat/kapseret",
+                    "kipkenyo",
+                    "ngeria",
+                    "megun",
+                    "langas"
+                ]
+            },
+            {
+                "id": 145,
+                "name": "kesses",
+                "wards": [
+                    "racecourse",
+                    "cheptiret/kipchamo",
+                    "tulwet/chuiyat",
+                    "tarakwa"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "ELGEYO/MARAKWET",
+        "subcounties": [
+            {
+                "id": 146,
+                "name": "marakwet east",
+                "wards": [
+                    "kapyego",
+                    "sambirir",
+                    "endo",
+                    "embobut / embulot"
+                ]
+            },
+            {
+                "id": 147,
+                "name": "marakwet west",
+                "wards": [
+                    "lelan",
+                    "sengwer",
+                    "cherang'any/chebororwa",
+                    "moiben/kuserwo",
+                    "kapsowar",
+                    "arror"
+                ]
+            },
+            {
+                "id": 148,
+                "name": "keiyo north",
+                "wards": [
+                    "emsoo",
+                    "kamariny",
+                    "kapchemutwa",
+                    "tambach"
+                ]
+            },
+            {
+                "id": 149,
+                "name": "keiyo south",
+                "wards": [
+                    "kaptarakwa",
+                    "chepkorio",
+                    "soy north",
+                    "soy south",
+                    "kabiemit",
+                    "metkei"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "NANDI",
+        "subcounties": [
+            {
+                "id": 150,
+                "name": "tinderet",
+                "wards": [
+                    "songhor/soba",
+                    "tindiret",
+                    "chemelil/chemase",
+                    "kapsimotwo"
+                ]
+            },
+            {
+                "id": 151,
+                "name": "aldai",
+                "wards": [
+                    "kabwareng",
+                    "terik",
+                    "kemeloi-maraba",
+                    "kobujoi",
+                    "kaptumo-kaboi",
+                    "koyo-ndurio"
+                ]
+            },
+            {
+                "id": 152,
+                "name": "nandi hills",
+                "wards": [
+                    "nandi hills",
+                    "chepkunyuk",
+                    "ol'lessos",
+                    "kapchorua"
+                ]
+            },
+            {
+                "id": 153,
+                "name": "chesumei",
+                "wards": [
+                    "chemundu/kapng'etuny",
+                    "kosirai",
+                    "lelmokwo/ngechek",
+                    "kaptel/kamoiywo",
+                    "kiptuya"
+                ]
+            },
+            {
+                "id": 154,
+                "name": "emgwen",
+                "wards": [
+                    "chepkumia",
+                    "kapkangani",
+                    "kapsabet",
+                    "kilibwoni"
+                ]
+            },
+            {
+                "id": 155,
+                "name": "mosop",
+                "wards": [
+                    "chepterwai",
+                    "kipkaren",
+                    "kurgung/surungai",
+                    "kabiyet",
+                    "ndalat",
+                    "kabisaga",
+                    "sangalo/kebulonik"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "BARINGO",
+        "subcounties": [
+            {
+                "id": 156,
+                "name": "tiaty",
+                "wards": [
+                    "tirioko",
+                    "kolowa",
+                    "ribkwo",
+                    "silale",
+                    "loiyamorock",
+                    "tangulbei/korossi",
+                    "churo/amaya"
+                ]
+            },
+            {
+                "id": 157,
+                "name": "baringo north",
+                "wards": [
+                    "barwessa",
+                    "kabartonjo",
+                    "saimo/kipsaraman",
+                    "saimo/soi",
+                    "bartabwa"
+                ]
+            },
+            {
+                "id": 158,
+                "name": "baringo central",
+                "wards": [
+                    "kabarnet",
+                    "sacho",
+                    "tenges",
+                    "ewalel chapchap",
+                    "kapropita"
+                ]
+            },
+            {
+                "id": 159,
+                "name": "baringo south",
+                "wards": [
+                    "marigat",
+                    "ilchamus",
+                    "mochongoi",
+                    "mukutani"
+                ]
+            },
+            {
+                "id": 160,
+                "name": "mogotio",
+                "wards": [
+                    "mogotio",
+                    "emining",
+                    "kisanana"
+                ]
+            },
+            {
+                "id": 161,
+                "name": "eldama ravine",
+                "wards": [
+                    "lembus",
+                    "lembus kwen",
+                    "ravine",
+                    "mumberes/maji mazuri",
+                    "lembus/perkerra",
+                    "koibatek"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "LAIKIPIA",
+        "subcounties": [
+            {
+                "id": 162,
+                "name": "laikipia west",
+                "wards": [
+                    "olmoran",
+                    "rumuruti township",
+                    "kinamba",
+                    "marmanet",
+                    "igwamiti",
+                    "salama"
+                ]
+            },
+            {
+                "id": 163,
+                "name": "laikipia east",
+                "wards": [
+                    "ngobit",
+                    "tigithi",
+                    "thingithu",
+                    "nanyuki",
+                    "umande"
+                ]
+            },
+            {
+                "id": 164,
+                "name": "laikipia north",
+                "wards": [
+                    "sosian",
+                    "segera",
+                    "mukogondo west",
+                    "mukogondo east"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "NAKURU",
+        "subcounties": [
+            {
+                "id": 165,
+                "name": "molo",
+                "wards": [
+                    "mariashoni",
+                    "elburgon",
+                    "turi",
+                    "molo"
+                ]
+            },
+            {
+                "id": 166,
+                "name": "njoro",
+                "wards": [
+                    "maunarok",
+                    "mauche",
+                    "kihingo",
+                    "nessuit",
+                    "lare",
+                    "njoro"
+                ]
+            },
+            {
+                "id": 167,
+                "name": "naivasha",
+                "wards": [
+                    "biashara",
+                    "hells gate",
+                    "lakeview",
+                    "maai-mahiu",
+                    "maiella",
+                    "olkaria",
+                    "naivasha east",
+                    "viwandani"
+                ]
+            },
+            {
+                "id": 168,
+                "name": "gilgil",
+                "wards": [
+                    "gilgil",
+                    "elementaita",
+                    "mbaruk/eburu",
+                    "malewa west",
+                    "murindati"
+                ]
+            },
+            {
+                "id": 169,
+                "name": "kuresoi south",
+                "wards": [
+                    "amalo",
+                    "keringet",
+                    "kiptagich",
+                    "tinet"
+                ]
+            },
+            {
+                "id": 170,
+                "name": "kuresoi north",
+                "wards": [
+                    "kiptororo",
+                    "nyota",
+                    "sirikwa",
+                    "kamara"
+                ]
+            },
+            {
+                "id": 171,
+                "name": "subukia",
+                "wards": [
+                    "subukia",
+                    "waseges",
+                    "kabazi"
+                ]
+            },
+            {
+                "id": 172,
+                "name": "rongai",
+                "wards": [
+                    "menengai west",
+                    "soin",
+                    "visoi",
+                    "mosop",
+                    "solai"
+                ]
+            },
+            {
+                "id": 173,
+                "name": "bahati",
+                "wards": [
+                    "dundori",
+                    "kabatini",
+                    "kiamaina",
+                    "lanet/umoja",
+                    "bahati"
+                ]
+            },
+            {
+                "id": 174,
+                "name": "nakuru town west",
+                "wards": [
+                    "barut",
+                    "london",
+                    "kaptembwo",
+                    "kapkures",
+                    "rhoda",
+                    "shaabab"
+                ]
+            },
+            {
+                "id": 175,
+                "name": "nakuru town east",
+                "wards": [
+                    "biashara",
+                    "kivumbini",
+                    "flamingo",
+                    "menengai",
+                    "nakuru east"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "NAROK",
+        "subcounties": [
+            {
+                "id": 176,
+                "name": "kilgoris",
+                "wards": [
+                    "kilgoris central",
+                    "keyian",
+                    "angata barikoi",
+                    "shankoe",
+                    "kimintet",
+                    "lolgorian"
+                ]
+            },
+            {
+                "id": 177,
+                "name": "emurua dikirr",
+                "wards": [
+                    "ilkerin",
+                    "ololmasani",
+                    "mogondo",
+                    "kapsasian"
+                ]
+            },
+            {
+                "id": 178,
+                "name": "narok north",
+                "wards": [
+                    "olpusimoru",
+                    "olokurto",
+                    "narok town",
+                    "nkareta",
+                    "olorropil",
+                    "melili"
+                ]
+            },
+            {
+                "id": 179,
+                "name": "narok east",
+                "wards": [
+                    "mosiro",
+                    "ildamat",
+                    "keekonyokie",
+                    "suswa"
+                ]
+            },
+            {
+                "id": 180,
+                "name": "narok south",
+                "wards": [
+                    "majimoto/naroosura",
+                    "ololulung'a",
+                    "melelo",
+                    "loita",
+                    "sogoo",
+                    "sagamian"
+                ]
+            },
+            {
+                "id": 181,
+                "name": "narok west",
+                "wards": [
+                    "ilmotiok",
+                    "mara",
+                    "siana",
+                    "naikarra"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "KAJIADO",
+        "subcounties": [
+            {
+                "id": 182,
+                "name": "kajiado north",
+                "wards": [
+                    "olkeri",
+                    "ongata rongai",
+                    "nkaimurunya",
+                    "oloolua",
+                    "ngong"
+                ]
+            },
+            {
+                "id": 183,
+                "name": "kajiado central",
+                "wards": [
+                    "purko",
+                    "ildamat",
+                    "dalalekutuk",
+                    "matapato north",
+                    "matapato south"
+                ]
+            },
+            {
+                "id": 184,
+                "name": "kajiado east",
+                "wards": [
+                    "kaputiei north",
+                    "kitengela",
+                    "oloosirkon/sholinke",
+                    "kenyawa-poka",
+                    "imaroro"
+                ]
+            },
+            {
+                "id": 185,
+                "name": "kajiado west",
+                "wards": [
+                    "keekonyokie",
+                    "iloodokilani",
+                    "magadi",
+                    "ewuaso oonkidong'i",
+                    "mosiro"
+                ]
+            },
+            {
+                "id": 186,
+                "name": "kajiado south",
+                "wards": [
+                    "entonet/lenkisim",
+                    "mbirikani/eselenkei",
+                    "kuku",
+                    "rombo",
+                    "kimana"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "KERICHO",
+        "subcounties": [
+            {
+                "id": 187,
+                "name": "kipkelion east",
+                "wards": [
+                    "londiani",
+                    "kedowa/kimugul",
+                    "chepseon",
+                    "tendeno/sorget"
+                ]
+            },
+            {
+                "id": 188,
+                "name": "kipkelion west",
+                "wards": [
+                    "kunyak",
+                    "kamasian",
+                    "kipkelion",
+                    "chilchila"
+                ]
+            },
+            {
+                "id": 189,
+                "name": "ainamoi",
+                "wards": [
+                    "kapsoit",
+                    "ainamoi",
+                    "kapkugerwet",
+                    "kipchebor",
+                    "kipchimchim",
+                    "kapsaos"
+                ]
+            },
+            {
+                "id": 190,
+                "name": "bureti",
+                "wards": [
+                    "kisiara",
+                    "tebesonik",
+                    "cheboin",
+                    "chemosot",
+                    "litein",
+                    "cheplanget",
+                    "kapkatet"
+                ]
+            },
+            {
+                "id": 191,
+                "name": "belgut",
+                "wards": [
+                    "waldai",
+                    "kabianga",
+                    "cheptororiet/seretut",
+                    "chaik",
+                    "kapsuser"
+                ]
+            },
+            {
+                "id": 192,
+                "name": "sigowet/soin",
+                "wards": [
+                    "sigowet",
+                    "kaplelartet",
+                    "soliat",
+                    "soin"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "BOMET",
+        "subcounties": [
+            {
+                "id": 193,
+                "name": "sotik",
+                "wards": [
+                    "ndanai/abosi",
+                    "chemagel",
+                    "kipsonoi",
+                    "kapletundo",
+                    "rongena/manaret"
+                ]
+            },
+            {
+                "id": 194,
+                "name": "chepalungu",
+                "wards": [
+                    "kong'asis",
+                    "nyangores",
+                    "sigor",
+                    "chebunyo",
+                    "siongiroi"
+                ]
+            },
+            {
+                "id": 195,
+                "name": "bomet east",
+                "wards": [
+                    "merigi",
+                    "kembu",
+                    "longisa",
+                    "kipreres",
+                    "chemaner"
+                ]
+            },
+            {
+                "id": 196,
+                "name": "bomet central",
+                "wards": [
+                    "silibwet township",
+                    "ndaraweta",
+                    "singorwet",
+                    "chesoen",
+                    "mutarakwa"
+                ]
+            },
+            {
+                "id": 197,
+                "name": "konoin",
+                "wards": [
+                    "chepchabas",
+                    "kimulot",
+                    "mogogosiek",
+                    "boito",
+                    "embomos"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "KAKAMEGA",
+        "subcounties": [
+            {
+                "id": 198,
+                "name": "lugari",
+                "wards": [
+                    "mautuma",
+                    "lugari",
+                    "lumakanda",
+                    "chekalini",
+                    "chevaywa",
+                    "lwandeti"
+                ]
+            },
+            {
+                "id": 199,
+                "name": "likuyani",
+                "wards": [
+                    "likuyani",
+                    "sango",
+                    "kongoni",
+                    "nzoia",
+                    "sinoko"
+                ]
+            },
+            {
+                "id": 200,
+                "name": "malava",
+                "wards": [
+                    "west kabras",
+                    "chemuche",
+                    "east kabras",
+                    "butali/chegulo",
+                    "manda-shivanga",
+                    "shirugu-mugai",
+                    "south kabras"
+                ]
+            },
+            {
+                "id": 201,
+                "name": "lurambi",
+                "wards": [
+                    "butsotso east",
+                    "butsotso south",
+                    "butsotso central",
+                    "sheywe",
+                    "mahiakalo",
+                    "shirere"
+                ]
+            },
+            {
+                "id": 202,
+                "name": "navakholo",
+                "wards": [
+                    "ingostse-mathia",
+                    "shinoyi-shikomari-",
+                    "bunyala west",
+                    "bunyala east",
+                    "bunyala central"
+                ]
+            },
+            {
+                "id": 203,
+                "name": "mumias west",
+                "wards": [
+                    "mumias central",
+                    "mumias north",
+                    "etenje",
+                    "musanda"
+                ]
+            },
+            {
+                "id": 204,
+                "name": "mumias east",
+                "wards": [
+                    "lubinu/lusheya",
+                    "isongo/makunga/malaha",
+                    "east wanga"
+                ]
+            },
+            {
+                "id": 205,
+                "name": "matungu",
+                "wards": [
+                    "koyonzo",
+                    "kholera",
+                    "khalaba",
+                    "mayoni",
+                    "namamali"
+                ]
+            },
+            {
+                "id": 206,
+                "name": "butere",
+                "wards": [
+                    "marama west",
+                    "marama central",
+                    "marenyo - shianda",
+                    "marama north",
+                    "marama south"
+                ]
+            },
+            {
+                "id": 207,
+                "name": "khwisero",
+                "wards": [
+                    "kisa north",
+                    "kisa east",
+                    "kisa west",
+                    "kisa central"
+                ]
+            },
+            {
+                "id": 208,
+                "name": "shinyalu",
+                "wards": [
+                    "isukha north",
+                    "murhanda",
+                    "isukha central",
+                    "isukha south",
+                    "isukha east",
+                    "isukha west"
+                ]
+            },
+            {
+                "id": 209,
+                "name": "ikolomani",
+                "wards": [
+                    "idakho south",
+                    "idakho east",
+                    "idakho north",
+                    "idakho central"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "VIHIGA",
+        "subcounties": [
+            {
+                "id": 210,
+                "name": "vihiga",
+                "wards": [
+                    "lugaga-wamuluma",
+                    "south maragoli",
+                    "central maragoli",
+                    "mungoma"
+                ]
+            },
+            {
+                "id": 211,
+                "name": "sabatia",
+                "wards": [
+                    "lyaduywa/izava",
+                    "west sabatia",
+                    "chavakali",
+                    "north maragoli",
+                    "wodanga",
+                    "busali"
+                ]
+            },
+            {
+                "id": 212,
+                "name": "hamisi",
+                "wards": [
+                    "shiru",
+                    "muhudu",
+                    "shamakhokho",
+                    "gisambai",
+                    "banja",
+                    "tambua",
+                    "jepkoyai"
+                ]
+            },
+            {
+                "id": 213,
+                "name": "luanda",
+                "wards": [
+                    "luanda township",
+                    "wemilabi",
+                    "mwibona",
+                    "luanda south",
+                    "emabungo"
+                ]
+            },
+            {
+                "id": 214,
+                "name": "emuhaya",
+                "wards": [
+                    "north east bunyore",
+                    "central bunyore",
+                    "west bunyore"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "BUNGOMA",
+        "subcounties": [
+            {
+                "id": 215,
+                "name": "mt.elgon",
+                "wards": [
+                    "cheptais",
+                    "chesikaki",
+                    "chepyuk",
+                    "kapkateny",
+                    "kaptama",
+                    "elgon"
+                ]
+            },
+            {
+                "id": 216,
+                "name": "sirisia",
+                "wards": [
+                    "namwela",
+                    "malakisi/south kulisiru",
+                    "lwandanyi"
+                ]
+            },
+            {
+                "id": 217,
+                "name": "kabuchai",
+                "wards": [
+                    "kabuchai/chwele",
+                    "west nalondo",
+                    "bwake/luuya",
+                    "mukuyuni"
+                ]
+            },
+            {
+                "id": 218,
+                "name": "bumula",
+                "wards": [
+                    "south bukusu",
+                    "bumula",
+                    "khasoko",
+                    "kabula",
+                    "kimaeti",
+                    "west bukusu",
+                    "siboti"
+                ]
+            },
+            {
+                "id": 219,
+                "name": "kanduyi",
+                "wards": [
+                    "bukembe west",
+                    "bukembe east",
+                    "township",
+                    "khalaba",
+                    "musikoma",
+                    "east sang'alo",
+                    "marakaru/tuuti",
+                    "sang'alo west"
+                ]
+            },
+            {
+                "id": 220,
+                "name": "webuye east",
+                "wards": [
+                    "mihuu",
+                    "ndivisi",
+                    "maraka"
+                ]
+            },
+            {
+                "id": 221,
+                "name": "webuye west",
+                "wards": [
+                    "misikhu",
+                    "sitikho",
+                    "matulo",
+                    "bokoli"
+                ]
+            },
+            {
+                "id": 222,
+                "name": "kimilili",
+                "wards": [
+                    "kimilili",
+                    "kibingei",
+                    "maeni",
+                    "kamukuywa"
+                ]
+            },
+            {
+                "id": 223,
+                "name": "tongaren",
+                "wards": [
+                    "mbakalo",
+                    "naitiri/kabuyefwe",
+                    "milima",
+                    "ndalu/ tabani",
+                    "tongaren",
+                    "soysambu/ mitua"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "BUSIA",
+        "subcounties": [
+            {
+                "id": 224,
+                "name": "teso north",
+                "wards": [
+                    "malaba central",
+                    "malaba north",
+                    "ang'urai south",
+                    "ang'urai north",
+                    "ang'urai east",
+                    "malaba south"
+                ]
+            },
+            {
+                "id": 225,
+                "name": "teso south",
+                "wards": [
+                    "ang'orom",
+                    "chakol south",
+                    "chakol north",
+                    "amukura west",
+                    "amukura east",
+                    "amukura central"
+                ]
+            },
+            {
+                "id": 226,
+                "name": "nambale",
+                "wards": [
+                    "nambale township",
+                    "bukhayo north/waltsi",
+                    "bukhayo east",
+                    "bukhayo central"
+                ]
+            },
+            {
+                "id": 227,
+                "name": "matayos",
+                "wards": [
+                    "bukhayo west",
+                    "mayenje",
+                    "matayos south",
+                    "busibwabo",
+                    "burumba"
+                ]
+            },
+            {
+                "id": 228,
+                "name": "butula",
+                "wards": [
+                    "marachi west",
+                    "kingandole",
+                    "marachi central",
+                    "marachi east",
+                    "marachi north",
+                    "elugulu"
+                ]
+            },
+            {
+                "id": 229,
+                "name": "funyula",
+                "wards": [
+                    "namboboto nambuku",
+                    "nangina",
+                    "ageng'a nanguba",
+                    "bwiri"
+                ]
+            },
+            {
+                "id": 230,
+                "name": "budalangi",
+                "wards": [
+                    "bunyala central",
+                    "bunyala north",
+                    "bunyala west",
+                    "bunyala south"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "SIAYA",
+        "subcounties": [
+            {
+                "id": 231,
+                "name": "ugenya",
+                "wards": [
+                    "west ugenya",
+                    "ukwala",
+                    "north ugenya",
+                    "east ugenya"
+                ]
+            },
+            {
+                "id": 2312,
+                "name": "ugunja",
+                "wards": [
+                    "sidindi",
+                    "sigomere",
+                    "ugunja"
+                ]
+            },
+            {
+                "id": 232,
+                "name": "alego usonga",
+                "wards": [
+                    "usonga",
+                    "west alego",
+                    "central alego",
+                    "siaya township",
+                    "north alego",
+                    "south east alego"
+                ]
+            },
+            {
+                "id": 233,
+                "name": "gem",
+                "wards": [
+                    "north gem",
+                    "west gem",
+                    "central gem",
+                    "yala township",
+                    "east gem",
+                    "south gem"
+                ]
+            },
+            {
+                "id": 234,
+                "name": "bondo",
+                "wards": [
+                    "west yimbo",
+                    "central sakwa",
+                    "south sakwa",
+                    "yimbo east",
+                    "west sakwa",
+                    "north sakwa"
+                ]
+            },
+            {
+                "id": 235,
+                "name": "rarieda",
+                "wards": [
+                    "east asembo",
+                    "west asembo",
+                    "north uyoma",
+                    "south uyoma",
+                    "west uyoma"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "KISUMU",
+        "subcounties": [
+            {
+                "id": 236,
+                "name": "kisumu east",
+                "wards": [
+                    "kajulu",
+                    "kolwa east",
+                    "manyatta 'b'",
+                    "nyalenda 'a'",
+                    "kolwa central"
+                ]
+            },
+            {
+                "id": 237,
+                "name": "kisumu west",
+                "wards": [
+                    "south west kisumu",
+                    "central kisumu",
+                    "kisumu north",
+                    "west kisumu",
+                    "north west kisumu"
+                ]
+            },
+            {
+                "id": 238,
+                "name": "kisumu central",
+                "wards": [
+                    "railways",
+                    "migosi",
+                    "shaurimoyo kaloleni",
+                    "market milimani",
+                    "kondele",
+                    "nyalenda b"
+                ]
+            },
+            {
+                "id": 239,
+                "name": "seme",
+                "wards": [
+                    "west seme",
+                    "central seme",
+                    "east seme",
+                    "north seme"
+                ]
+            },
+            {
+                "id": 240,
+                "name": "nyando",
+                "wards": [
+                    "east kano/wawidhi",
+                    "awasi/onjiko",
+                    "ahero",
+                    "kabonyo/kanyagwal",
+                    "kobura"
+                ]
+            },
+            {
+                "id": 241,
+                "name": "muhoroni",
+                "wards": [
+                    "miwani",
+                    "ombeyi",
+                    "masogo/nyang'oma",
+                    "chemelil",
+                    "muhoroni/koru"
+                ]
+            },
+            {
+                "id": 242,
+                "name": "nyakach",
+                "wards": [
+                    "south west nyakach",
+                    "north nyakach",
+                    "central nyakach",
+                    "west nyakach",
+                    "south east nyakach"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "HOMA BAY",
+        "subcounties": [
+            {
+                "id": 243,
+                "name": "kasipul",
+                "wards": [
+                    "west kasipul",
+                    "south kasipul",
+                    "central kasipul",
+                    "east kamagak",
+                    "west kamagak"
+                ]
+            },
+            {
+                "id": 244,
+                "name": "kabondo kasipul",
+                "wards": [
+                    "kabondo east",
+                    "kabondo west",
+                    "kokwanyo/kakelo",
+                    "kojwach"
+                ]
+            },
+            {
+                "id": 245,
+                "name": "karachuonyo",
+                "wards": [
+                    "west karachuonyo",
+                    "north karachuonyo",
+                    "central",
+                    "kanyaluo",
+                    "kibiri",
+                    "wangchieng",
+                    "kendu bay town"
+                ]
+            },
+            {
+                "id": 246,
+                "name": "rangwe",
+                "wards": [
+                    "west gem",
+                    "east gem",
+                    "kagan",
+                    "kochia"
+                ]
+            },
+            {
+                "id": 247,
+                "name": "homa bay town",
+                "wards": [
+                    "homa bay central",
+                    "homa bay arujo",
+                    "homa bay west",
+                    "homa bay east"
+                ]
+            },
+            {
+                "id": 248,
+                "name": "ndhiwa",
+                "wards": [
+                    "kwabwai",
+                    "kanyadoto",
+                    "kanyikela",
+                    "north kabuoch",
+                    "kabuoch south/pala",
+                    "kanyamwa kologi",
+                    "kanyamwa kosewe"
+                ]
+            },
+            {
+                "id": 249,
+                "name": "mbita",
+                "wards": [
+                    "mfangano island",
+                    "rusinga island",
+                    "kasgunga",
+                    "gembe",
+                    "lambwe"
+                ]
+            },
+            {
+                "id": 250,
+                "name": "suba",
+                "wards": [
+                    "gwassi south",
+                    "gwassi north",
+                    "kaksingri west",
+                    "ruma kaksingri east"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "MIGORI",
+        "subcounties": [
+            {
+                "id": 251,
+                "name": "rongo",
+                "wards": [
+                    "north kamagambo",
+                    "central kamagambo",
+                    "east kamagambo",
+                    "south kamagambo"
+                ]
+            },
+            {
+                "id": 252,
+                "name": "awendo",
+                "wards": [
+                    "north sakwa",
+                    "south sakwa",
+                    "west sakwa",
+                    "central sakwa"
+                ]
+            },
+            {
+                "id": 253,
+                "name": "suna east",
+                "wards": [
+                    "god jope",
+                    "suna central",
+                    "kakrao",
+                    "kwa"
+                ]
+            },
+            {
+                "id": 254,
+                "name": "suna west",
+                "wards": [
+                    "wiga",
+                    "wasweta ii",
+                    "ragana-oruba",
+                    "wasimbete"
+                ]
+            },
+            {
+                "id": 255,
+                "name": "uriri",
+                "wards": [
+                    "west kanyamkago",
+                    "north kanyamkago",
+                    "central kanyamkago",
+                    "south kanyamkago",
+                    "east kanyamkago"
+                ]
+            },
+            {
+                "id": 256,
+                "name": "nyatike",
+                "wards": [
+                    "kachien'g",
+                    "kanyasa",
+                    "north kadem",
+                    "macalder/kanyarwanda",
+                    "kaler",
+                    "got kachola",
+                    "muhuru"
+                ]
+            },
+            {
+                "id": 257,
+                "name": "kuria west",
+                "wards": [
+                    "bukira east",
+                    "bukira centrl/ikerege",
+                    "isibania",
+                    "makerero",
+                    "masaba",
+                    "tagare",
+                    "nyamosense/komosoko"
+                ]
+            },
+            {
+                "id": 258,
+                "name": "kuria east",
+                "wards": [
+                    "gokeharaka/getambwega",
+                    "ntimaru west",
+                    "ntimaru east",
+                    "nyabasi east",
+                    "nyabasi west"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "KISII",
+        "subcounties": [
+            {
+                "id": 259,
+                "name": "bonchari",
+                "wards": [
+                    "bomariba",
+                    "bogiakumu",
+                    "bomorenda",
+                    "riana"
+                ]
+            },
+            {
+                "id": 260,
+                "name": "south mugirango",
+                "wards": [
+                    "tabaka",
+                    "boikang'a",
+                    "bogetenga",
+                    "borabu / chitago",
+                    "moticho",
+                    "getenga"
+                ]
+            },
+            {
+                "id": 261,
+                "name": "bomachoge borabu",
+                "wards": [
+                    "bombaba borabu",
+                    "boochi borabu",
+                    "bokimonge",
+                    "magenche"
+                ]
+            },
+            {
+                "id": 262,
+                "name": "bobasi",
+                "wards": [
+                    "masige west",
+                    "masige east",
+                    "bobasi central",
+                    "nyacheki",
+                    "bobasi bogetaorio",
+                    "bobasi chache",
+                    "sameta/mokwerero",
+                    "bobasi boitangare"
+                ]
+            },
+            {
+                "id": 263,
+                "name": "bomachoge chache",
+                "wards": [
+                    "majoge",
+                    "boochi/tendere",
+                    "bosoti/sengera"
+                ]
+            },
+            {
+                "id": 264,
+                "name": "nyaribari masaba",
+                "wards": [
+                    "ichuni",
+                    "nyamasibi",
+                    "masimba",
+                    "gesusu",
+                    "kiamokama"
+                ]
+            },
+            {
+                "id": 265,
+                "name": "nyaribari chache",
+                "wards": [
+                    "bobaracho",
+                    "kisii central",
+                    "keumbu",
+                    "kiogoro",
+                    "birongo",
+                    "ibeno"
+                ]
+            },
+            {
+                "id": 266,
+                "name": "kitutu chache north",
+                "wards": [
+                    "monyerero",
+                    "sensi",
+                    "marani",
+                    "kegogi"
+                ]
+            },
+            {
+                "id": 267,
+                "name": "kitutu chache south",
+                "wards": [
+                    "bogusero",
+                    "bogeka",
+                    "nyakoe",
+                    "kitutu   central",
+                    "nyatieko"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "NYAMIRA",
+        "subcounties": [
+            {
+                "id": 268,
+                "name": "kitutu masaba",
+                "wards": [
+                    "rigoma",
+                    "gachuba",
+                    "kemera",
+                    "magombo",
+                    "manga",
+                    "gesima"
+                ]
+            },
+            {
+                "id": 269,
+                "name": "west mugirango",
+                "wards": [
+                    "nyamaiya",
+                    "bogichora",
+                    "bosamaro",
+                    "bonyamatuta",
+                    "township"
+                ]
+            },
+            {
+                "id": 270,
+                "name": "north mugirango",
+                "wards": [
+                    "itibo",
+                    "bomwagamo",
+                    "bokeira",
+                    "magwagwa",
+                    "ekerenyo"
+                ]
+            },
+            {
+                "id": 271,
+                "name": "borabu",
+                "wards": [
+                    "mekenene",
+                    "kiabonyoru",
+                    "nyansiongo",
+                    "esise"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "NAIROBI",
+        "subcounties": [
+            {
+                "id": 272,
+                "name": "westlands",
+                "wards": [
+                    "kitisuru",
+                    "parklands/highridge",
+                    "karura",
+                    "kangemi",
+                    "mountain view"
+                ]
+            },
+            {
+                "id": 273,
+                "name": "dagoretti north",
+                "wards": [
+                    "kilimani",
+                    "kawangware",
+                    "gatina",
+                    "kileleshwa",
+                    "kabiro"
+                ]
+            },
+            {
+                "id": 274,
+                "name": "dagoretti south",
+                "wards": [
+                    "mutuini",
+                    "ngando",
+                    "riruta",
+                    "uthiru/ruthimitu",
+                    "waithaka"
+                ]
+            },
+            {
+                "id": 275,
+                "name": "langata",
+                "wards": [
+                    "karen",
+                    "nairobi west",
+                    "mugumo-ini",
+                    "south-c",
+                    "nyayo highrise"
+                ]
+            },
+            {
+                "id": 276,
+                "name": "kibra",
+                "wards": [
+                    "laini saba",
+                    "lindi",
+                    "makina",
+                    "woodley/kenyatta golf",
+                    "sarangombe"
+                ]
+            },
+            {
+                "id": 277,
+                "name": "roysambu",
+                "wards": [
+                    "githurai",
+                    "kahawa west",
+                    "zimmerman",
+                    "roysambu",
+                    "kahawa"
+                ]
+            },
+            {
+                "id": 278,
+                "name": "kasarani",
+                "wards": [
+                    "claycity",
+                    "mwiki",
+                    "kasarani",
+                    "njiru",
+                    "ruai"
+                ]
+            },
+            {
+                "id": 279,
+                "name": "ruaraka",
+                "wards": [
+                    "baba dogo",
+                    "utalii",
+                    "mathare north",
+                    "lucky summer",
+                    "korogocho"
+                ]
+            },
+            {
+                "id": 280,
+                "name": "embakasi south",
+                "wards": [
+                    "imara daima",
+                    "kwa njenga",
+                    "kwa reuben",
+                    "pipeline",
+                    "kware"
+                ]
+            },
+            {
+                "id": 281,
+                "name": "embakasi north",
+                "wards": [
+                    "kariobangi north",
+                    "dandora area i",
+                    "dandora area ii",
+                    "dandora area iii",
+                    "dandora area iv"
+                ]
+            },
+            {
+                "id": 282,
+                "name": "embakasi central",
+                "wards": [
+                    "kayole north",
+                    "kayole central",
+                    "kayole south",
+                    "komarock",
+                    "matopeni"
+                ]
+            },
+            {
+                "id": 283,
+                "name": "embakasi east",
+                "wards": [
+                    "upper savannah",
+                    "lower savannah",
+                    "embakasi",
+                    "utawala",
+                    "mihango"
+                ]
+            },
+            {
+                "id": 284,
+                "name": "embakasi west",
+                "wards": [
+                    "umoja i",
+                    "umoja ii",
+                    "mowlem",
+                    "kariobangi south"
+                ]
+            },
+            {
+                "id": 285,
+                "name": "makadara",
+                "wards": [
+                    "makongeni",
+                    "maringo/hamza",
+                    "harambee",
+                    "viwandani"
+                ]
+            },
+            {
+                "id": 286,
+                "name": "kamukunji",
+                "wards": [
+                    "pumwani",
+                    "eastleigh north",
+                    "eastleigh south",
+                    "airbase",
+                    "california"
+                ]
+            },
+            {
+                "id": 287,
+                "name": "starehe",
+                "wards": [
+                    "nairobi central",
+                    "ngara",
+                    "ziwani/kariokor",
+                    "pangani",
+                    "landimawe",
+                    "nairobi south"
+                ]
+            },
+            {
+                "id": 288,
+                "name": "mathare",
+                "wards": [
+                    "hospital",
+                    "mabatini",
+                    "huruma",
+                    "ngei",
+                    "mlango kubwa",
+                    "kiamaiko"
+                ]
+            }
+        ]
+    }
+]
