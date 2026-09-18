@@ -1,11 +1,11 @@
 {
-    "name": "gradeit",
-    "short_name": "gradeit",
+    "name": "Gredli - Academic Grading & School Management",
+    "short_name": "Gredli",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Gredli is a modern academic grading, marks management, and comprehensive school assessment reporting platform.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
