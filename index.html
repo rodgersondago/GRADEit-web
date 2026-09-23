@@ -58,61 +58,8 @@
 
   <!-- Structured Data / Schema.org -->
   
-  <!-- Instant loading splash (shows before Flutter/JS has loaded) -->
-  <style>
-    #flutter-loading-splash {
-      position: fixed;
-      inset: 0;
-      z-index: 9999;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      background: #ffffff;
-      transition: opacity 0.3s ease-out;
-    }
-    #flutter-loading-splash img {
-      width: 88px;
-      height: 88px;
-      margin-bottom: 20px;
-      animation: flutter-splash-pulse 1.4s ease-in-out infinite;
-    }
-    #flutter-loading-splash .flutter-spinner {
-      width: 32px;
-      height: 32px;
-      border: 3px solid #e0e0e0;
-      border-top-color: #0175C2;
-      border-radius: 50%;
-      animation: flutter-splash-spin 0.8s linear infinite;
-      margin-top: 4px;
-    }
-    #flutter-loading-splash p {
-      margin-top: 14px;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      color: #555;
-      font-size: 14px;
-    }
-    @keyframes flutter-splash-spin {
-      to { transform: rotate(360deg); }
-    }
-    @keyframes flutter-splash-pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.7; }
-    }
-    #flutter-loading-splash.flutter-splash-hidden {
-      opacity: 0;
-      pointer-events: none;
-    }
-  </style>
 </head>
 <body>
-  <!-- Loading splash — shown instantly, removed once Flutter draws its first frame -->
-  <div id="flutter-loading-splash">
-    <img src="icons/Icon-192.png" alt="Gredli" width="88" height="88">
-    <div class="flutter-spinner"></div>
-    <p>Loading Gredli&hellip;</p>
-  </div>
-
   <!-- Crawlable semantic content for search engines and AI indexers -->
   <header style="display: none;">
     <a href="https://gredli.com" title="Gredli Home">
@@ -192,21 +139,7 @@
     </div>
   </noscript>
 
-  <script src="flutter_bootstrap.js?v=1790079274118" async></script>
-  <script src="check_banner.js?v=1790079274118"></script>
-  <script>
-    (function () {
-      function hideSplash() {
-        var splash = document.getElementById('flutter-loading-splash');
-        if (!splash) return;
-        splash.classList.add('flutter-splash-hidden');
-        setTimeout(function () { splash.remove(); }, 300);
-      }
-      // Fires the moment Flutter paints its first real frame
-      window.addEventListener('flutter-first-frame', hideSplash);
-      // Safety net in case the event never fires (slow network, error, etc.)
-      setTimeout(hideSplash, 15000);
-    })();
-  </script>
+  <script src="flutter_bootstrap.js?v=1790159303489" async></script>
+  <script src="check_banner.js?v=1790159303489"></script>
 </body>
 </html>
